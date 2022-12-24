@@ -17,7 +17,7 @@ foreach( $folder as $key => $FOLDER) {
 
 $str = $action($messages);
 
-include "layout.php"   
+include "./page/layout.php"
 
 ?>
 
